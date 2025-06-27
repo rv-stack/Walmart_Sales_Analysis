@@ -75,16 +75,3 @@ Possible extensions to this project:
 - Automation of the data pipeline for real-time data ingestion and analysis.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. 
-
----
-
-## Acknowledgments
-
-- **Data Source**: Kaggle’s Walmart Sales Dataset
-- **Inspiration**: Walmart’s business case studies on sales and supply chain optimization.
-
----
